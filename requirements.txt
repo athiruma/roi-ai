@@ -1,0 +1,11 @@
+psycopg2-binary
+llama-index
+asyncpg
+sqlalchemy[asyncio]
+pgvector
+sentence-transformers==2.2.2
+
+
+
+
+
